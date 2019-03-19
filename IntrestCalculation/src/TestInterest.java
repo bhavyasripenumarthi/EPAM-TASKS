@@ -5,6 +5,9 @@ import org.junit.Test;
 public class TestInterest {
 
 	@Test
+	/*
+	 * Test Cases for Simple Interest
+	 */
 	public void testSimpleInterest() {
 		Calculate c = new Calculate();
 		assertEquals(c,c.simpleInterest(10000, 3, 2));
@@ -13,6 +16,9 @@ public class TestInterest {
 	}
 	
 	@Test
+	/*
+	 * Test Cases for Compound Interest
+	 */
 	public void testCompoundInterest() {
 		Calculate c = new Calculate();
 		assertEquals(c,c.compoundInterest(10090, 3, 2));
