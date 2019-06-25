@@ -1,0 +1,4 @@
+https://www.hackerrank.com/challenges/torque-and-development/problem
+https://www.hackerrank.com/challenges/bfsshortreach/problem
+https://www.hackerrank.com/challenges/primsmstsub/problem
+https://www.hackerrank.com/challenges/rust-murderer/problem
